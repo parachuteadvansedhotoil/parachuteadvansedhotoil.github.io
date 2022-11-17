@@ -271,7 +271,7 @@ section {
   border-bottom: 1px solid #fff;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 768px) {
   .header {
     height: 70px;
   }
