@@ -270,11 +270,8 @@ section {
   height: 90px;
   border-bottom: 1px solid #fff;
 }
-.container {
- display: flex;
-}
 
-@media (max-width: 768px) {
+@media (max-width: 575px) {
   .header {
     height: 70px;
   }
@@ -296,6 +293,7 @@ section {
   color: #000;
   margin: 0;
   font-family: var(--font-secondary);
+  display: flex;
 }
 
 .header .logo h1 span {
