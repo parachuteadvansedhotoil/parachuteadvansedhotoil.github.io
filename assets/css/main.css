@@ -293,7 +293,7 @@ section {
   color: #000;
   margin: 0;
   font-family: var(--font-secondary);
-  display: flex;
+  display: block;
 }
 
 .header .logo h1 span {
